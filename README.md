@@ -6,7 +6,6 @@ Implementation of Pseudorandom Number Generation Using Standard library
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
 int main() 
 {
     int count, min, max;
