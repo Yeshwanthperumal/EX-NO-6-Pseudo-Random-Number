@@ -27,6 +27,6 @@ int main()
 }
 ```
 # Output
-![image](https://github.com/user-attachments/assets/255a274d-a351-4353-9512-d2dd61d82897)
+![image](https://github.com/user-attachments/assets/061be87c-f2cb-4f42-8825-8274e1d887ae)
 # Result
 Thus the c program has been executed successfully.
